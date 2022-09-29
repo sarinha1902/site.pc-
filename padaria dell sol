@@ -1,7 +1,35 @@
-sobre a Padaria Dell Sol Alura
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>Padaria Dell Sol Alura</title>
+    <link rel="stylesheet" href="style.css">
+   
+    <style>
+      
+    </style>
+ </head>
+  <body>
+     <h1 style="text-align: center"> sobre a Padaria Dell Sol Alura</h1>
 
-Localizada no centro da cidade. Fundada dia 23 de setembro de 2022, 
-a Padaria Dell Sol Alura ja é destaque na cidade e conquista novos crientes a cada dia.
-Nossa missão é:" proporcionar um café da manhã de qualidade para nossos clientes".
-Oferecemos um café da manhã e um almoço de qualidade para nossos clientes , o atendimento possui um padrão exelente e agilidade
-garantindo qualidade e satisfação para nossos clientes.
+     <p>Localizada no centro da cidade a <strong>Padaria Dell Sol Alura</strong> traz para o mercado o qu há de melhor para seu café da manhã.Fundada dia 23
+     de setembro de 2022, a Padaria Dell Sol Alura ja é destaque na cidade e conquista novos crientes a cada dia.</p>
+
+     <p style="font-size: 20px; text-align: center" "><em>Nossa missão é: <strong>" proporcionar um café da manhã de qualidade para nossos clientes"</strong>.</em></p>
+
+     <p >Oferecemos um café da manhã e um almoço de qualidade para nossos clientes , o atendimento possui um padrão exelente e agilidade
+      garantindo qualidade e satisfação para nossos clientes.</p>
+  </body>
+  
+  
+ 
+</html>
+
+
+
+
+
+
+ p {
+           text-align: center
+       }
