@@ -5,16 +5,17 @@ body {
 }
 
 #banner {
-
+    width: 100%;
 }
 
 h1 {
-  text-align: center
+  text-align: center;
 }
 
  p {
      text-align: center;
        }
+
 #missao {
     font-size: 20px
 }     
