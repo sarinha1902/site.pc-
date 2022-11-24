@@ -13,7 +13,9 @@ body {
    padding: 30px;
 }
 
-titulo-centralizado
+.titulo-centralizado {
+    text-aling: center;
+}
 
  p {
      text-align: center;
