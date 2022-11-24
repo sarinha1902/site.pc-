@@ -13,6 +13,10 @@ body {
    padding: 30px;
 }
 
+.titulo-principal {
+   padding-Left: 20px;
+}
+
 .titulo-centralizado {
     text-aling: center;
 }
